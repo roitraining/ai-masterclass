@@ -39,9 +39,9 @@ Keep responses concise and structured (use headers or bullet points where helpfu
 ---
 
 ## Knowledge sources to upload
-- `https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Crestline_MA_Integration.docx`
-- `https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Harborview_Data_Migration.docx`
-- `https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Lattice_Digital_Transformation.docx`
+- [Proposal_Crestline_MA_Integration](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Crestline_MA_Integration.docx)
+- [Proposal_Harborview_Data_Migration](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Harborview_Data_Migration.docx)
+- [Proposal_Lattice_Digital_Transformation](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Lattice_Digital_Transformation.docx)
 
 ---
 
