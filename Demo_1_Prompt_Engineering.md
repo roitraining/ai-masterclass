@@ -38,7 +38,7 @@ Use the Internet and find recent news from the last 30 days about Starbucks that
 ## Step 4: The LinkedIn Wall
 
 ```
-I am give you a LinkedIn profile. Summarize this person's background and recent activity so I can reference it in our meeting.
+I am giving you a LinkedIn profile. Summarize this person's background and recent activity so I can reference it in our meeting.
 
 LinkedIn profile: https://www.linkedin.com/in/anthony-sok/
 ```
