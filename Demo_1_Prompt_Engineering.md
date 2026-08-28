@@ -47,6 +47,8 @@ LinkedIn profile: https://www.linkedin.com/in/anthony-sok/
 
 ## Step 5: Prompt (with the screenshot attached)
 
+[LinkedIn Screenshot](http://github.com/roitraining/ai-masterclass/blob/main/assets/LinkedIn_Photo.png)
+
 ```
 I've attached a screenshot of a LinkedIn profile. Summarize this person's professional background and tenure, note anything relevant from their recent activity, and suggest one talking point I could use to open our meeting.
 ```
