@@ -19,7 +19,7 @@ Write me a brief for my meeting with Starbucks.
 [Past Meeting Notes](https://github.com/roitraining/ai-masterclass/blob/main/assets/Past_Meeting_Notes.docx)
 
 ```
-I'm going to attache raw, unstructured meeting notes covering several past interactions with a client contact. Reorganize them into a clean summary using these headers: Date/Occasion, Topic Discussed, Client Concerns Raised, Commitments We Made, Open Action Items.
+I'm going to attach raw, unstructured meeting notes covering several past interactions with a client contact. Reorganize them into a clean summary using these headers: Date/Occasion, Topic Discussed, Client Concerns Raised, Commitments We Made, Open Action Items.
 
 Keep every distinct fact. Don't drop anything. Don't add anything that isn't in the notes. If something in the notes is itself uncertain (marked with a question mark or "I think"), flag it as uncertain rather than resolving it yourself.
 ```
