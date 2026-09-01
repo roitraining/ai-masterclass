@@ -1,5 +1,7 @@
 # From Proposal to Interactive Experience
 
+**THIS IS A DEMONSTRATION BY THE INSTRUCTOR AND NOT MEANT AS A FOLLOW-ALONG, YOU MAY NOT HAVE SOME OF THESE FEATURES ENABLED IN YOUR COPILOT ENVIRONMENT**
+
 _This prompt turns the same written proposal into three different formats: a visual roadmap slide, a clickable web walkthrough, and a working app you can use live with a client._
 
 > Lets turn a proposal you've already worked with into something visual instead. Attach the Harborview proposal and ask for a slide instead of a paragraph, and notice how much of the table's structure (the phases, the durations) survives the jump into something a client could actually look at.
@@ -41,8 +43,6 @@ Keep the design clean and professional, consistent with something a partner coul
 > One last jump: instead of just displaying the proposal's numbers, let's build something that lets you play with them. This one leaves Copilot Chat entirely and goes into Power Apps, since something with working logic like this still needs that environment. Notice the prompt doesn't ask for a document at all, it asks for a table and a rule, and Copilot builds the working app around them. If the toggle doesn't update the totals correctly on the first try, that's normal, just ask it to fix the formulas and it usually gets there on the second pass.
 
 ## Step 3: The Fee & Scope App
-
-_! Run this in Microsoft PowerApp_
 
 ```
 Create an app called "Harborview Engagement Fee & Scope Configurator" to help a partner explore fee and timeline scenarios for a proposed engagement.
