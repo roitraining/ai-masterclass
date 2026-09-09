@@ -33,19 +33,9 @@ Use the Internet and find recent news from the last 30 days about Starbucks that
 ```
 
 > Just because a claim has a source attached to it doesn't mean the claim is right or the source is relevant. You always need to verify it yourself. One more thing worth checking: when was this actually published? AI search can surface an older article in a way that makes it feel brand new. Quick date check before you call anything "recent."
-> Now try pulling in some context from a client contact's LinkedIn. Paste in a profile link and ask for a summary, then just watch what happens. Chances are, it won't work. LinkedIn doesn't let AI tools access profiles without permission, so this isn't the AI letting you down; it's a wall LinkedIn put up on purpose.
+> Now try pulling in some context from a client contact's LinkedIn. A screenshot works because the AI can read images directly, no fetching required. 
 
-## Step 4: The LinkedIn Wall
-
-```
-I am giving you a LinkedIn profile. Summarize this person's background and recent activity so I can reference it in our meeting.
-
-LinkedIn profile: https://www.linkedin.com/in/anthony-sok/
-```
-
-> So if it can't go get the page itself, just show it the page instead. A screenshot works because the AI can read images directly, no fetching required. 
-
-## Step 5: Prompt (with the screenshot attached)
+## Step 4: Prompt (with the screenshot attached)
 
 [LinkedIn Screenshot](http://github.com/roitraining/ai-masterclass/blob/main/assets/LinkedIn_Photo.png)
 
@@ -55,7 +45,7 @@ I've attached a screenshot of a LinkedIn profile. Summarize this person's profes
 
 > Okay, now we bring it all together. The cleaned-up notes, the verified news, the LinkedIn context, all into one brief. Pay attention to the last line of the prompt: "if something isn't covered here, say so instead of guessing." That single sentence is doing more work than it looks like. You'll see exactly why in a second.
 
-## Step 6: Putting It All Together
+## Step 5: Putting It All Together
 
 ```
 You are a senior advisory partner preparing for a client meeting in two hours. Using only the information provided below, produce a one-page meeting prep brief with these sections:
