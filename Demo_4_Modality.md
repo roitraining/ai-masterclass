@@ -8,22 +8,19 @@ _This prompt turns the same written proposal into three different formats: a vis
 
 ## Step 1: The Visual Roadmap
 
-Attach: [Proposal_Harborview_Data_Migration](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Harborview_Data_Migration.docx)
-
-Begin by selecting the PowerPoint agent by typing this into the chat box.
-
-```
-@PowerPoint 
-```
+Begin by creating a new blank presentation in PowerPoint and then selecting Copilot.
 
 Then paste in the below prompt.
 
+Attach: [Proposal_Harborview_Data_Migration](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Harborview_Data_Migration.docx)
+Attach: [Slide Template]()
+
 ```
-Using the attached proposal document for Harborview Retail Group, create a single slide that turns the "Our Approach & Methodology" phase table into a visual project roadmap.
+Create one 16:9 PowerPoint slide using the attached example image as the exact design template and the attached proposal as the only content source.
 
-Show each phase as a distinct step along a horizontal timeline. For each step, include the phase name, its duration, and a short one-line description, using icons or simple visual elements rather than a text table. Keep wording minimal, this should read as a leadership-ready graphic a partner could put in front of a client, not a wall of text.
+Use content only from "Our Approach & Methodology” Do not add or infer any information. Match the example’s layout, colours, typography, spacing, shapes, icons, footer, and one-line text formatting. Replace the example content while preserving its visual structure. Add the proposal source to the speaker notes.
 
-Title the slide "Harborview Retail Group: Data Migration & Systems Modernization Roadmap." Use a clean, professional style consistent with an advisory/consulting deck.
+You may modify the bar length and colours to match the content needed.
 ```
 
 > A slide is still something you have to click through one at a time, or print out. Let's ask for the same content in a format that lives on its own: a webpage you can click through, right inside the chat. This runs through a feature called Copilot Pages, so keep an eye on whether it renders as something you can actually click rather than just a block of code, that part isn't fully guaranteed every time.
