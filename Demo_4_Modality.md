@@ -12,8 +12,8 @@ Begin by creating a new blank presentation in PowerPoint and then selecting Copi
 
 Then paste in the below prompt.
 
-Attach: [Proposal_Harborview_Data_Migration](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Harborview_Data_Migration.docx)
-Attach: [Slide Template]()
+- Attach: [Proposal_Harborview_Data_Migration](https://github.com/roitraining/ai-masterclass/blob/main/assets/Proposal_Harborview_Data_Migration.docx)
+- Attach: [Slide_Template](https://github.com/roitraining/ai-masterclass/blob/main/assets/Slide_Template.png)
 
 ```
 Create one 16:9 PowerPoint slide using the attached example image as the exact design template and the attached proposal as the only content source.
